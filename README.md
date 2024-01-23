@@ -15,7 +15,7 @@ Este projeto consiste em um blog.
 
 ### 🎯 Objetivo:
 
-Criar um blog para a empresa 2Core
+Criar um blog para a empresa 2Core.
 
 <br /> <br />
 
